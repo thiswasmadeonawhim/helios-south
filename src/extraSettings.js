@@ -35,10 +35,10 @@ let fruitSlowDown = false;
 let clickChangeFruit = true;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = 'https://raw.githubusercontent.com/thiswasmadeonawhim/tkrb-merge/master/credits.png';
+let adLink = 'https://raw.githubusercontent.com/thiswasmadeonawhim/helios-south/master/credits.png?token=GHSAT0AAAAAACEAWMF3NNS25C3IDXP2PACGZEXRCVQ';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = 'TKRB Merge';
+document.getElementsByTagName("title")[0].innerText = 'South Sector Merge';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;

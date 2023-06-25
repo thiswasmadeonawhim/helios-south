@@ -1,6 +1,5 @@
 # Edit by thiswasmadeonawhim
-All images are owned by EXNOA LLC/NITRO PLUS. Find the images used on the Official Line Store:
-- https://store.line.me/emojishop/product/6415539a98ea5c4bae0df06a/ja
+All images are owned by Happy Elements KK. Images from the Helios Rising Heroes mobile game.
 
 If any bugs, contact me at
 - Discord: thiswasmadeonawhim
